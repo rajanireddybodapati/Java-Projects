@@ -1,0 +1,1 @@
+pkgclass.object.fruits
